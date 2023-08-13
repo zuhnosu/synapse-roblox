@@ -1,4 +1,4 @@
-# synapse-roblox
+# xSynapsexV3xRobloxExploitx
 Synapse V3 With Byfron Support [Remake, Which works on normal roblox]
 This is remake of synapse v3, which has it's own custom lvl 10 API, which is super powerful, and lots of features that original synapse v3 has
 
@@ -9,3 +9,4 @@ This is remake of synapse v3, which has it's own custom lvl 10 API, which is sup
 4. Wait for message to pop-up, then use execute button to execute scripts!
 5. Enjoy, if u find any errors then hit me up or create and issue
    
+#
