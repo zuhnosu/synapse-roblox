@@ -13,3 +13,4 @@ This is remake of synapse v3, which has it's own custom lvl 10 API, which is sup
 # Important links
 Virus Total: https://www.virustotal.com/gui/file/417d110e265cea4cbb7e6a6363a6b9581c324457f49b891c611bba0c48b93cbe?nocache=1
 Direct Download: https://www.mediafire.com/file/qukzkah07l6nuzq/synapse-launcher-13.08.2023.rar/file
+#
